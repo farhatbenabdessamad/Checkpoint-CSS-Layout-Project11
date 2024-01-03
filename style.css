@@ -1,0 +1,77 @@
+.logo-docplanner{
+    width: 200px;
+    margin-right: 500px;
+    margin-left: 150px;
+}
+.nav-item a:hover{
+    color: #00b39b;
+}
+#about{
+    color:#00b39b;
+}
+.lead__logo{
+    margin-top: 30px;
+}
+#Making{
+    color: #00b39b;
+    font-size:xx-large
+          
+}
+#par{
+    margin-top: 30px;
+    font-size: 1.1rem;
+    color:black;
+}
+.row{
+    font-size:1.1rem;
+    margin-bottom: 40px;
+    
+}
+.card select{
+    margin-top: 50px;
+}
+.card h5,p{
+    color: white;
+}
+#dde{
+    color: #00b39b;
+    float: left;
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;    
+}
+#ccee{
+    color: black;
+    margin-left: -1rem;
+    display: inline-block;
+    
+
+}
+#kk{
+    color:#00b39b;
+    float: left;
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300; 
+}
+
+.card-body1{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+.card-title1{
+    
+}
+
+.col-6{
+    background-color:#e5faf8 ;
+}
+
+
+
